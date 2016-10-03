@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="String theory" />
+    <node id="Metrizability theory" />
+    <node id="Finite geometry" />
+    <node id="The School of Athens" />
+    <node id="Mayan numerals" />
+    <node id="Perseus Project" />
+    <node id="Mathematical finance" />
+    <node id="Independence (mathematical logic)" />
+    <node id="Falsifiability" />
+    <node id="Millennium Prize Problems" />
+    <node id="Muhammad ibn Musa al-Khwarizmi" />
+    <node id="Bulletin of the American Mathematical Society" />
+    <node id="Compass and straightedge constructions" />
+    <node id="Mathematical physics" />
+    <node id="Mathematician" />
+    <node id="Beauty" />
+    <node id="Logicist" />
+    <node id="Hilbert's program" />
+    <node id="Land measurement" />
+    <node id="Order theory" />
+    <node id="Khan Academy" />
+    <node id="Amazon Standard Identification Number" />
+    <node id="Combinatorics" />
+    <node id="A Greek–English Lexicon" />
+    <node id="University" />
+    <node id="Set theory" />
+    <node id="Risk" />
+    <node id="Outline of mathematics" />
+    <node id="Mathematics and art" />
+    <node id="Fundamental theorem of algebra" />
+    <node id="Entropy (information theory)" />
+    <node id="Encyclopaedia of Mathematics" />
+    <node id="Trade" />
+    <node id="Abstraction" />
+    <node id="Ancient Greek" />
+    <node id="Morse theory" />
+    <node id="Season" />
+    <node id="Principia Mathematica" />
+    <node id="L.E.J. Brouwer" />
+    <node id="Motion (physics)" />
+    <node id="Function (mathematics)" />
+    <node id="Oxford University Press" />
+    <node id="Theory of computation" />
+    <node id="Vector space" />
+    <node id="Poincaré conjecture" />
+    <node id="Path integral formulation" />
+    <node id="Model selection" />
+    <node id="Approximation" />
+    <node id="Hypothesis testing" />
+    <node id="Gödel's incompleteness theorem" />
+    <node id="Theoretical computer science" />
+    <node id="Experimental mathematics" />
+    <node id="Benjamin Peirce" />
+    <node id="Numerical linear algebra" />
+    <node id="Multiplication" />
+    <node id="Theoretical physics" />
+    <node id="Measure theory" />
+    <node id="Oxford English Dictionary" />
+    <node id="Wikiversity" />
+    <node id="Approximation theory" />
+    <node id="Category theory" />
+    <node id="Richard Feynman" />
+    <node id="Organon" />
+    <node id="Point-set topology" />
+    <node id="Lie group" />
+    <node id="Lists of mathematics topics" />
+    <node id="If and only if" />
+    <node id="Numerical analysis" />
+    <node id="Continuous function" />
+    <node id="Subset" />
+    <node id="Taxation" />
+    <node id="Isaac Newton" />
+    <node id="Uncertainty" />
+    <node id="Ancient Egypt" />
+    <node id="Operations research" />
+    <node id="Prime number" />
+    <node id="Addition" />
+    <node id="Game theory" />
+    <node id="Octonion" />
+    <node id="Carl Friedrich Gauss" />
+    <node id="Dover Publications" />
+    <node id="Twin prime" />
+    <node id="Timeline of scientific discoveries" />
+    <node id="Definition of mathematics" />
+    <node id="The Mathematical Experience" />
+    <node id="Alfred North Whitehead" />
+    <node id="Intuition (knowledge)" />
+    <node id="Statistical theory" />
+    <node id="Definition" />
+    <node id="Number" />
+    <node id="Subtraction" />
+    <node id="Aristotle" />
+    <node id="Quantum mechanics" />
+    <node id="Glossary of areas of mathematics" />
+    <node id="Foundations of mathematics" />
+    <node id="Computability theory (computation)" />
+    <node id="Frank Kelly (mathematician)" />
+    <node id="Statistical method" />
+    <node id="Differential topology" />
+    <node id="Marcus du Sautoy" />
+    <node id="Four color theorem" />
+    <node id="Metamathematics" />
+    <node id="Objective function" />
+    <node id="Saint Augustine" />
+    <node id="Mathematical science" />
+    <node id="Islamic Golden Age" />
+    <node id="Morris Kline" />
+    <node id="Lie theory" />
+    <node id="Integrated Authority File" />
+    <node id="Euclid" />
+    <node id="Group theory" />
+    <node id="Computer science" />
+    <node id="Raphael" />
+    <node id="Design of experiments" />
+    <node id="Bertrand Russell" />
+    <node id="Vector calculus" />
+    <node id="Formal system" />
+    <node id="Computational mathematics" />
+    <node id="Scholasticism" />
+    <node id="BBC Radio 4" />
+    <node id="Areas of mathematics" />
+    <node id="Parameter estimation" />
+    <node id="Elementary arithmetic" />
+    <node id="Iris Runge" />
+    <node id="Calculation" />
+    <node id="Fields Medal" />
+    <node id="Mathematical rigour" />
+    <node id="MacTutor History of Mathematics archive" />
+    <node id="Computational complexity theory" />
+    <node id="Group (mathematics)" />
+    <node id="Leonardo Fibonacci" />
+    <node id="Logic" />
+    <node id="Science, Technology, Engineering, and Mathematics" />
+    <node id="First principles" />
+    <node id="Decision science" />
+    <node id="Mathematical economics" />
+    <node id="History of Mathematics" />
+    <node id="MRDP theorem" />
+    <node id="Deductive" />
+    <node id="Math" />
+    <node id="Tally sticks" />
+    <node id="Diophantus" />
+    <node id="Language of mathematics" />
+    <node id="JSTOR" />
+    <node id="Symbolic computation" />
+    <node id="Calculus" />
+    <node id="Arithmetic" />
+    <node id="Mathematical analysis" />
+    <node id="Statistics" />
+    <node id="Medicine" />
+    <node id="Real analysis" />
+    <node id="Abstraction (mathematics)" />
+    <node id="Wiki" />
+    <node id="Rigor" />
+    <node id="Henry Liddell" />
+    <node id="Set (mathematics)" />
+    <node id="Manifold" />
+    <node id="Hodge conjecture" />
+    <node id="Projective geometry" />
+    <node id="Expected loss" />
+    <node id="Pythagorean theorem" />
+    <node id="Statistical inference" />
+    <node id="Mathematical problem" />
+    <node id="TeX" />
+    <node id="Omar Khayyam" />
+    <node id="Analytic geometry" />
+    <node id="Renaissance" />
+    <node id="Mathematical jargon" />
+    <node id="Model theory" />
+    <node id="Physicist" />
+    <node id="Riemann surface" />
+    <node id="Natural science" />
+    <node id="Italians" />
+    <node id="Ohio State University" />
+    <node id="General relativity" />
+    <node id="Linear algebra" />
+    <node id="Logicism" />
+    <node id="Statistical model" />
+    <node id="Science (journal)" />
+    <node id="Quantity" />
+    <node id="CC BY SA" />
+    <node id="National Diet Library" />
+    <node id="Charles Sanders Peirce" />
+    <node id="Karl Popper" />
+    <node id="Mathematical chemistry" />
+    <node id="Statistical hypothesis testing" />
+    <node id="Deterministic system (mathematics)" />
+    <node id="Imre Lakatos" />
+    <node id="Online Etymology Dictionary" />
+    <node id="Chemistry" />
+    <node id="Polynomial" />
+    <node id="Axiomatization" />
+    <node id="Cicero" />
+    <node id="Elementary algebra" />
+    <node id="Differential geometry" />
+    <node id="Geometry of numbers" />
+    <node id="Paul Erdős" />
+    <node id="Operation (mathematics)" />
+    <node id="Mathematical optimization" />
+    <node id="Hypothesis" />
+    <node id="Mathematics Subject Classification" />
+    <node id="Euclidean geometry" />
+    <node id="Rhind Mathematical Papyrus" />
+    <node id="Axiom" />
+    <node id="Babylonian mathematics" />
+    <node id="Numerical method" />
+    <node id="Non-Euclidean geometries" />
+    <node id="Goldbach's conjecture" />
+    <node id="Baconian method" />
+    <node id="Philosophy of mathematics" />
+    <node id="Fermat's Last Theorem" />
+    <node id="Computer algebra" />
+    <node id="Jan Gullberg" />
+    <node id="Integral" />
+    <node id="Hilbert's problems" />
+    <node id="P = NP problem" />
+    <node id="History of mathematics" />
+    <node id="Algebraic topology" />
+    <node id="Observational study" />
+    <node id="Theorem" />
+    <node id="Wolf Prize in Mathematics" />
+    <node id="Patterns" />
+    <node id="Communications on Pure and Applied Mathematics" />
+    <node id="Natural number" />
+    <node id="Science" />
+    <node id="Fluid dynamics" />
+    <node id="Numeracy" />
+    <node id="Fractal" />
+    <node id="Finance" />
+    <node id="Algorithm" />
+    <node id="Mathematical notation" />
+    <node id="Fast Fourier transform" />
+    <node id="Mathematical biology" />
+    <node id="Galois theory" />
+    <node id="Mathematical statistics" />
+    <node id="Vector (geometric)" />
+    <node id="Yadolah Dodge" />
+    <node id="Mathematical logic" />
+    <node id="Recursion theory" />
+    <node id="BBC" />
+    <node id="Ring (mathematics)" />
+    <node id="Transfinite number" />
+    <node id="Eugene Wigner" />
+    <node id="Complex number" />
+    <node id="Open problem" />
+    <node id="Mathematics" />
+    <node id="Geometry" />
+    <node id="Mathematics (disambiguation)" />
+    <node id="Chern Medal" />
+    <node id="Clarendon Press" />
+    <node id="Recreational mathematics" />
+    <node id="Tensor calculus" />
+    <node id="Reuben Hersh" />
+    <node id="Trigonometry" />
+    <node id="Estimation theory" />
+    <node id="Axiomatic system" />
+    <node id="Algebraic geometry" />
+    <node id="Prehistoric" />
+    <node id="Digital object identifier" />
+    <node id="Rounding error" />
+    <node id="Experiment" />
+    <node id="Controversy over Cantor's theory" />
+    <node id="Günter M. Ziegler" />
+    <node id="Computational geometry" />
+    <node id="Conjecture" />
+    <node id="The Oxford Dictionary of English Etymology" />
+    <node id="Control theory" />
+    <node id="Mathematical beauty" />
+    <node id="G.H. Hardy" />
+    <node id="Differential equation" />
+    <node id="German language" />
+    <node id="Selection algorithm" />
+    <node id="Carl B. Boyer" />
+    <node id="Franciscus Vieta" />
+    <node id="False proof" />
+    <node id="Painting" />
+    <node id="A Mathematician's Apology" />
+    <node id="Functional analysis" />
+    <node id="Cryptography" />
+    <node id="Fiber bundles" />
+    <node id="Statistical decision theory" />
+    <node id="Langlands program" />
+    <node id="Gottfried Wilhelm Leibniz" />
+    <node id="Peter Whittle" />
+    <node id="Babylonia" />
+    <node id="Topological groups" />
+    <node id="Topology" />
+    <node id="Richard Courant" />
+    <node id="C.R. Rao" />
+    <node id="Riemann hypothesis" />
+    <node id="Kluwer Academic Publishers" />
+    <node id="Formalism (mathematics)" />
+    <node id="Encyclopædia Britannica" />
+    <node id="Discretization" />
+    <node id="Random sampling" />
+    <node id="Giuseppe Peano" />
+    <node id="Greek mathematics" />
+    <node id="Algebra" />
+    <node id="Truth" />
+    <node id="Analysis (mathematics)" />
+    <node id="Data compression" />
+    <node id="Discrete mathematics" />
+    <node id="Math (disambiguation)" />
+    <node id="Professional" />
+    <node id="Fraction (mathematics)" />
+    <node id="Wolfgang Sartorius von Waltershausen" />
+    <node id="Convex geometry" />
+    <node id="Complex analysis" />
+    <node id="Hazewinkel, Michiel" />
+    <node id="Field (mathematics)" />
+    <node id="Rational number" />
+    <node id="Florian Cajori" />
+    <node id="Deductive reasoning" />
+    <node id="Computer-assisted proof" />
+    <node id="Social sciences" />
+    <node id="Mathematical structure" />
+    <node id="Kepler conjecture" />
+    <node id="Division (mathematics)" />
+    <node id="Discrete geometry" />
+    <node id="Quaternion" />
+    <node id="Simplicity" />
+    <node id="Information theory" />
+    <node id="Musical notation" />
+    <node id="Dynamical systems theory" />
+    <node id="Symbolic logic" />
+    <node id="Dynamical system" />
+    <node id="Chaos theory" />
+    <node id="Brouwer–Hilbert controversy" />
+    <node id="In Our Time (BBC Radio 4)" />
+    <node id="Axiomatic set theory" />
+    <node id="Mathematics education" />
+    <node id="Herbert Robbins" />
+    <node id="Galileo Galilei" />
+    <node id="Middle Kingdom of Egypt" />
+    <node id="Scientific method" />
+    <node id="International Standard Book Number" />
+    <node id="Leonhard Euler" />
+    <node id="Measurement" />
+    <node id="Philip J. Davis" />
+    <node id="Applied mathematics" />
+    <node id="Infinity" />
+    <node id="Integer" />
+    <node id="Abacus" />
+    <node id="Homotopy theory" />
+    <node id="Shape" />
+    <node id="Physics" />
+    <node id="W. W. Norton &amp; Company" />
+    <node id="David Hilbert" />
+    <node id="Mathematical Reviews" />
+    <node id="Ancient Greeks" />
+    <node id="Lynn Steen" />
+    <node id="Writing" />
+    <node id="Representation theory" />
+    <node id="Robert Scott (philologist)" />
+    <node id="Mathematical proof" />
+    <node id="Metaphysics" />
+    <node id="Abstract algebra" />
+    <node id="Numeral system" />
+    <node id="Number theory" />
+    <node id="Euclid's Elements" />
+    <node id="Galois groups" />
+    <node id="Nobel Prize" />
+    <node id="Open set" />
+    <node id="Latin language" />
+    <node id="Proof theory" />
+    <node id="Multilinear algebra" />
+    <node id="Gödel's incompleteness theorems" />
+    <node id="Intuitionist" />
+    <node id="PubMed Identifier" />
+    <node id="Homeomorphism" />
+    <node id="Turing machine" />
+    <node id="Counting" />
+    <node id="Fundamental interaction" />
+    <node id="University of Cambridge" />
+    <node id="Barry A. Cipra" />
+    <node id="Real number" />
+    <node id="Keith Devlin" />
+    <node id="Biology" />
+    <node id="Pure mathematics" />
+    <node id="Astronomy" />
+    <node id="Relation (mathematics)" />
+    <node id="J.M. Ziman" />
+    <node id="Set-theoretic topology" />
+    <node id="Convex optimization" />
+    <node id="Commerce" />
+    <node id="Albert Einstein" />
+    <node id="Abel Prize" />
+    <node id="Weaving" />
+    <node id="Sharaf al-Dīn al-Ṭūsī" />
+    <node id="Falsificationism" />
+    <node id="Cost" />
+    <node id="Engineering" />
+    <node id="Graph theory" />
+    <node id="Architecture" />
+    <node id="Calipers" />
+    <node id="The Unreasonable Effectiveness of Mathematics in the Natural Sciences" />
+    <node id="Probability theory" />
+    <node id="Aleph number" />
+    <node id="Cardinal number" />
+    <node id="Space" />
+    <node id="Pythagoras" />
+    <node id="Aesthetics" />
+    <node id="Haskell Curry" />
+    <node id="Relationship between mathematics and physics" />
+    <node id="Definitions of mathematics" />
+    <node id="Liberal arts" />
+    <node id="Proof (mathematics)" />
+    <edge source="Mathematics" target="String theory" />
+    <edge source="Mathematics" target="Metrizability theory" />
+    <edge source="Mathematics" target="Finite geometry" />
+    <edge source="Mathematics" target="The School of Athens" />
+    <edge source="Mathematics" target="Mayan numerals" />
+    <edge source="Mathematics" target="Perseus Project" />
+    <edge source="Mathematics" target="Mathematical finance" />
+    <edge source="Mathematics" target="Independence (mathematical logic)" />
+    <edge source="Mathematics" target="Falsifiability" />
+    <edge source="Mathematics" target="Millennium Prize Problems" />
+    <edge source="Mathematics" target="Muhammad ibn Musa al-Khwarizmi" />
+    <edge source="Mathematics" target="Bulletin of the American Mathematical Society" />
+    <edge source="Mathematics" target="Compass and straightedge constructions" />
+    <edge source="Mathematics" target="Mathematical physics" />
+    <edge source="Mathematics" target="Mathematician" />
+    <edge source="Mathematics" target="Beauty" />
+    <edge source="Mathematics" target="Logicist" />
+    <edge source="Mathematics" target="Hilbert's program" />
+    <edge source="Mathematics" target="Land measurement" />
+    <edge source="Mathematics" target="Order theory" />
+    <edge source="Mathematics" target="Khan Academy" />
+    <edge source="Mathematics" target="Amazon Standard Identification Number" />
+    <edge source="Mathematics" target="Combinatorics" />
+    <edge source="Mathematics" target="A Greek–English Lexicon" />
+    <edge source="Mathematics" target="University" />
+    <edge source="Mathematics" target="Set theory" />
+    <edge source="Mathematics" target="Risk" />
+    <edge source="Mathematics" target="Outline of mathematics" />
+    <edge source="Mathematics" target="Mathematics and art" />
+    <edge source="Mathematics" target="Fundamental theorem of algebra" />
+    <edge source="Mathematics" target="Entropy (information theory)" />
+    <edge source="Mathematics" target="Encyclopaedia of Mathematics" />
+    <edge source="Mathematics" target="Trade" />
+    <edge source="Mathematics" target="Abstraction" />
+    <edge source="Mathematics" target="Ancient Greek" />
+    <edge source="Mathematics" target="Morse theory" />
+    <edge source="Mathematics" target="Season" />
+    <edge source="Mathematics" target="Principia Mathematica" />
+    <edge source="Mathematics" target="L.E.J. Brouwer" />
+    <edge source="Mathematics" target="Motion (physics)" />
+    <edge source="Mathematics" target="Function (mathematics)" />
+    <edge source="Mathematics" target="Oxford University Press" />
+    <edge source="Mathematics" target="Theory of computation" />
+    <edge source="Mathematics" target="Vector space" />
+    <edge source="Mathematics" target="Poincaré conjecture" />
+    <edge source="Mathematics" target="Path integral formulation" />
+    <edge source="Mathematics" target="Model selection" />
+    <edge source="Mathematics" target="Approximation" />
+    <edge source="Mathematics" target="Hypothesis testing" />
+    <edge source="Mathematics" target="Gödel's incompleteness theorem" />
+    <edge source="Mathematics" target="Theoretical computer science" />
+    <edge source="Mathematics" target="Experimental mathematics" />
+    <edge source="Mathematics" target="Benjamin Peirce" />
+    <edge source="Mathematics" target="Numerical linear algebra" />
+    <edge source="Mathematics" target="Multiplication" />
+    <edge source="Mathematics" target="Theoretical physics" />
+    <edge source="Mathematics" target="Measure theory" />
+    <edge source="Mathematics" target="Oxford English Dictionary" />
+    <edge source="Mathematics" target="Wikiversity" />
+    <edge source="Mathematics" target="Approximation theory" />
+    <edge source="Mathematics" target="Category theory" />
+    <edge source="Mathematics" target="Richard Feynman" />
+    <edge source="Mathematics" target="Organon" />
+    <edge source="Mathematics" target="Point-set topology" />
+    <edge source="Mathematics" target="Lie group" />
+    <edge source="Mathematics" target="Lists of mathematics topics" />
+    <edge source="Mathematics" target="If and only if" />
+    <edge source="Mathematics" target="Numerical analysis" />
+    <edge source="Mathematics" target="Continuous function" />
+    <edge source="Mathematics" target="Subset" />
+    <edge source="Mathematics" target="Taxation" />
+    <edge source="Mathematics" target="Isaac Newton" />
+    <edge source="Mathematics" target="Uncertainty" />
+    <edge source="Mathematics" target="Ancient Egypt" />
+    <edge source="Mathematics" target="Operations research" />
+    <edge source="Mathematics" target="Prime number" />
+    <edge source="Mathematics" target="Addition" />
+    <edge source="Mathematics" target="Game theory" />
+    <edge source="Mathematics" target="Octonion" />
+    <edge source="Mathematics" target="Carl Friedrich Gauss" />
+    <edge source="Mathematics" target="Dover Publications" />
+    <edge source="Mathematics" target="Twin prime" />
+    <edge source="Mathematics" target="Timeline of scientific discoveries" />
+    <edge source="Mathematics" target="Definition of mathematics" />
+    <edge source="Mathematics" target="The Mathematical Experience" />
+    <edge source="Mathematics" target="Alfred North Whitehead" />
+    <edge source="Mathematics" target="Intuition (knowledge)" />
+    <edge source="Mathematics" target="Statistical theory" />
+    <edge source="Mathematics" target="Definition" />
+    <edge source="Mathematics" target="Number" />
+    <edge source="Mathematics" target="Subtraction" />
+    <edge source="Mathematics" target="Aristotle" />
+    <edge source="Mathematics" target="Quantum mechanics" />
+    <edge source="Mathematics" target="Glossary of areas of mathematics" />
+    <edge source="Mathematics" target="Foundations of mathematics" />
+    <edge source="Mathematics" target="Computability theory (computation)" />
+    <edge source="Mathematics" target="Frank Kelly (mathematician)" />
+    <edge source="Mathematics" target="Statistical method" />
+    <edge source="Mathematics" target="Differential topology" />
+    <edge source="Mathematics" target="Marcus du Sautoy" />
+    <edge source="Mathematics" target="Four color theorem" />
+    <edge source="Mathematics" target="Metamathematics" />
+    <edge source="Mathematics" target="Objective function" />
+    <edge source="Mathematics" target="Saint Augustine" />
+    <edge source="Mathematics" target="Mathematical science" />
+    <edge source="Mathematics" target="Islamic Golden Age" />
+    <edge source="Mathematics" target="Morris Kline" />
+    <edge source="Mathematics" target="Lie theory" />
+    <edge source="Mathematics" target="Integrated Authority File" />
+    <edge source="Mathematics" target="Euclid" />
+    <edge source="Mathematics" target="Group theory" />
+    <edge source="Mathematics" target="Computer science" />
+    <edge source="Mathematics" target="Raphael" />
+    <edge source="Mathematics" target="Design of experiments" />
+    <edge source="Mathematics" target="Bertrand Russell" />
+    <edge source="Mathematics" target="Vector calculus" />
+    <edge source="Mathematics" target="Formal system" />
+    <edge source="Mathematics" target="Computational mathematics" />
+    <edge source="Mathematics" target="Scholasticism" />
+    <edge source="Mathematics" target="BBC Radio 4" />
+    <edge source="Mathematics" target="Areas of mathematics" />
+    <edge source="Mathematics" target="Parameter estimation" />
+    <edge source="Mathematics" target="Elementary arithmetic" />
+    <edge source="Mathematics" target="Iris Runge" />
+    <edge source="Mathematics" target="Calculation" />
+    <edge source="Mathematics" target="Fields Medal" />
+    <edge source="Mathematics" target="Mathematical rigour" />
+    <edge source="Mathematics" target="MacTutor History of Mathematics archive" />
+    <edge source="Mathematics" target="Computational complexity theory" />
+    <edge source="Mathematics" target="Group (mathematics)" />
+    <edge source="Mathematics" target="Leonardo Fibonacci" />
+    <edge source="Mathematics" target="Logic" />
+    <edge source="Mathematics" target="Science, Technology, Engineering, and Mathematics" />
+    <edge source="Mathematics" target="First principles" />
+    <edge source="Mathematics" target="Decision science" />
+    <edge source="Mathematics" target="Mathematical economics" />
+    <edge source="Mathematics" target="Galileo Galilei" />
+    <edge source="Mathematics" target="MRDP theorem" />
+    <edge source="Mathematics" target="Deductive" />
+    <edge source="Mathematics" target="Math" />
+    <edge source="Mathematics" target="Tally sticks" />
+    <edge source="Mathematics" target="Diophantus" />
+    <edge source="Mathematics" target="Language of mathematics" />
+    <edge source="Mathematics" target="JSTOR" />
+    <edge source="Mathematics" target="Calculus" />
+    <edge source="Mathematics" target="Arithmetic" />
+    <edge source="Mathematics" target="Mathematical analysis" />
+    <edge source="Mathematics" target="Statistics" />
+    <edge source="Mathematics" target="Medicine" />
+    <edge source="Mathematics" target="Real analysis" />
+    <edge source="Mathematics" target="Abstraction (mathematics)" />
+    <edge source="Mathematics" target="Wiki" />
+    <edge source="Mathematics" target="Rigor" />
+    <edge source="Mathematics" target="Henry Liddell" />
+    <edge source="Mathematics" target="Set (mathematics)" />
+    <edge source="Mathematics" target="Manifold" />
+    <edge source="Mathematics" target="Hodge conjecture" />
+    <edge source="Mathematics" target="Projective geometry" />
+    <edge source="Mathematics" target="Expected loss" />
+    <edge source="Mathematics" target="Pythagorean theorem" />
+    <edge source="Mathematics" target="Statistical inference" />
+    <edge source="Mathematics" target="Mathematical problem" />
+    <edge source="Mathematics" target="TeX" />
+    <edge source="Mathematics" target="Omar Khayyam" />
+    <edge source="Mathematics" target="Analytic geometry" />
+    <edge source="Mathematics" target="Renaissance" />
+    <edge source="Mathematics" target="Mathematical jargon" />
+    <edge source="Mathematics" target="Model theory" />
+    <edge source="Mathematics" target="Physicist" />
+    <edge source="Mathematics" target="Riemann surface" />
+    <edge source="Mathematics" target="Natural science" />
+    <edge source="Mathematics" target="Italians" />
+    <edge source="Mathematics" target="Ohio State University" />
+    <edge source="Mathematics" target="General relativity" />
+    <edge source="Mathematics" target="Linear algebra" />
+    <edge source="Mathematics" target="Logicism" />
+    <edge source="Mathematics" target="Statistical model" />
+    <edge source="Mathematics" target="Science (journal)" />
+    <edge source="Mathematics" target="Quantity" />
+    <edge source="Mathematics" target="CC BY SA" />
+    <edge source="Mathematics" target="National Diet Library" />
+    <edge source="Mathematics" target="Charles Sanders Peirce" />
+    <edge source="Mathematics" target="Karl Popper" />
+    <edge source="Mathematics" target="Mathematical chemistry" />
+    <edge source="Mathematics" target="Statistical hypothesis testing" />
+    <edge source="Mathematics" target="Deterministic system (mathematics)" />
+    <edge source="Mathematics" target="Imre Lakatos" />
+    <edge source="Mathematics" target="Online Etymology Dictionary" />
+    <edge source="Mathematics" target="Chemistry" />
+    <edge source="Mathematics" target="Polynomial" />
+    <edge source="Mathematics" target="Axiomatization" />
+    <edge source="Mathematics" target="Cicero" />
+    <edge source="Mathematics" target="Elementary algebra" />
+    <edge source="Mathematics" target="Differential geometry" />
+    <edge source="Mathematics" target="Geometry of numbers" />
+    <edge source="Mathematics" target="Paul Erdős" />
+    <edge source="Mathematics" target="Operation (mathematics)" />
+    <edge source="Mathematics" target="Mathematical optimization" />
+    <edge source="Mathematics" target="Hypothesis" />
+    <edge source="Mathematics" target="Mathematics Subject Classification" />
+    <edge source="Mathematics" target="Euclidean geometry" />
+    <edge source="Mathematics" target="Rhind Mathematical Papyrus" />
+    <edge source="Mathematics" target="Axiom" />
+    <edge source="Mathematics" target="Babylonian mathematics" />
+    <edge source="Mathematics" target="Numerical method" />
+    <edge source="Mathematics" target="Non-Euclidean geometries" />
+    <edge source="Mathematics" target="Goldbach's conjecture" />
+    <edge source="Mathematics" target="Baconian method" />
+    <edge source="Mathematics" target="Philosophy of mathematics" />
+    <edge source="Mathematics" target="Fermat's Last Theorem" />
+    <edge source="Mathematics" target="Computer algebra" />
+    <edge source="Mathematics" target="Jan Gullberg" />
+    <edge source="Mathematics" target="Integral" />
+    <edge source="Mathematics" target="Hilbert's problems" />
+    <edge source="Mathematics" target="P = NP problem" />
+    <edge source="Mathematics" target="History of mathematics" />
+    <edge source="Mathematics" target="Algebraic topology" />
+    <edge source="Mathematics" target="Observational study" />
+    <edge source="Mathematics" target="Theorem" />
+    <edge source="Mathematics" target="Wolf Prize in Mathematics" />
+    <edge source="Mathematics" target="Patterns" />
+    <edge source="Mathematics" target="Communications on Pure and Applied Mathematics" />
+    <edge source="Mathematics" target="Natural number" />
+    <edge source="Mathematics" target="Science" />
+    <edge source="Mathematics" target="Fluid dynamics" />
+    <edge source="Mathematics" target="Numeracy" />
+    <edge source="Mathematics" target="Fractal" />
+    <edge source="Mathematics" target="Finance" />
+    <edge source="Mathematics" target="Algorithm" />
+    <edge source="Mathematics" target="Mathematical notation" />
+    <edge source="Mathematics" target="Fast Fourier transform" />
+    <edge source="Mathematics" target="Mathematical biology" />
+    <edge source="Mathematics" target="Galois theory" />
+    <edge source="Mathematics" target="Mathematical statistics" />
+    <edge source="Mathematics" target="Vector (geometric)" />
+    <edge source="Mathematics" target="Yadolah Dodge" />
+    <edge source="Mathematics" target="Mathematical logic" />
+    <edge source="Mathematics" target="Recursion theory" />
+    <edge source="Mathematics" target="BBC" />
+    <edge source="Mathematics" target="Ring (mathematics)" />
+    <edge source="Mathematics" target="Transfinite number" />
+    <edge source="Mathematics" target="Eugene Wigner" />
+    <edge source="Mathematics" target="Complex number" />
+    <edge source="Mathematics" target="Open problem" />
+    <edge source="Mathematics" target="Symbolic computation" />
+    <edge source="Mathematics" target="Geometry" />
+    <edge source="Mathematics" target="Mathematics (disambiguation)" />
+    <edge source="Mathematics" target="Chern Medal" />
+    <edge source="Mathematics" target="Clarendon Press" />
+    <edge source="Mathematics" target="Recreational mathematics" />
+    <edge source="Mathematics" target="Tensor calculus" />
+    <edge source="Mathematics" target="Reuben Hersh" />
+    <edge source="Mathematics" target="Trigonometry" />
+    <edge source="Mathematics" target="Estimation theory" />
+    <edge source="Mathematics" target="Axiomatic system" />
+    <edge source="Mathematics" target="Algebraic geometry" />
+    <edge source="Mathematics" target="Prehistoric" />
+    <edge source="Mathematics" target="Digital object identifier" />
+    <edge source="Mathematics" target="Rounding error" />
+    <edge source="Mathematics" target="Experiment" />
+    <edge source="Mathematics" target="Controversy over Cantor's theory" />
+    <edge source="Mathematics" target="Günter M. Ziegler" />
+    <edge source="Mathematics" target="Computational geometry" />
+    <edge source="Mathematics" target="Conjecture" />
+    <edge source="Mathematics" target="The Oxford Dictionary of English Etymology" />
+    <edge source="Mathematics" target="Control theory" />
+    <edge source="Mathematics" target="Mathematical beauty" />
+    <edge source="Mathematics" target="G.H. Hardy" />
+    <edge source="Mathematics" target="Differential equation" />
+    <edge source="Mathematics" target="German language" />
+    <edge source="Mathematics" target="Selection algorithm" />
+    <edge source="Mathematics" target="Carl B. Boyer" />
+    <edge source="Mathematics" target="Franciscus Vieta" />
+    <edge source="Mathematics" target="False proof" />
+    <edge source="Mathematics" target="Painting" />
+    <edge source="Mathematics" target="A Mathematician's Apology" />
+    <edge source="Mathematics" target="Functional analysis" />
+    <edge source="Mathematics" target="Cryptography" />
+    <edge source="Mathematics" target="Fiber bundles" />
+    <edge source="Mathematics" target="Statistical decision theory" />
+    <edge source="Mathematics" target="Langlands program" />
+    <edge source="Mathematics" target="Gottfried Wilhelm Leibniz" />
+    <edge source="Mathematics" target="Peter Whittle" />
+    <edge source="Mathematics" target="Babylonia" />
+    <edge source="Mathematics" target="Topological groups" />
+    <edge source="Mathematics" target="Topology" />
+    <edge source="Mathematics" target="Richard Courant" />
+    <edge source="Mathematics" target="C.R. Rao" />
+    <edge source="Mathematics" target="Riemann hypothesis" />
+    <edge source="Mathematics" target="Kluwer Academic Publishers" />
+    <edge source="Mathematics" target="Formalism (mathematics)" />
+    <edge source="Mathematics" target="Encyclopædia Britannica" />
+    <edge source="Mathematics" target="Discretization" />
+    <edge source="Mathematics" target="Random sampling" />
+    <edge source="Mathematics" target="Giuseppe Peano" />
+    <edge source="Mathematics" target="Greek mathematics" />
+    <edge source="Mathematics" target="Algebra" />
+    <edge source="Mathematics" target="Truth" />
+    <edge source="Mathematics" target="Analysis (mathematics)" />
+    <edge source="Mathematics" target="Data compression" />
+    <edge source="Mathematics" target="Discrete mathematics" />
+    <edge source="Mathematics" target="Math (disambiguation)" />
+    <edge source="Mathematics" target="Professional" />
+    <edge source="Mathematics" target="Fraction (mathematics)" />
+    <edge source="Mathematics" target="Wolfgang Sartorius von Waltershausen" />
+    <edge source="Mathematics" target="Convex geometry" />
+    <edge source="Mathematics" target="Complex analysis" />
+    <edge source="Mathematics" target="Hazewinkel, Michiel" />
+    <edge source="Mathematics" target="Field (mathematics)" />
+    <edge source="Mathematics" target="Rational number" />
+    <edge source="Mathematics" target="Florian Cajori" />
+    <edge source="Mathematics" target="Deductive reasoning" />
+    <edge source="Mathematics" target="Computer-assisted proof" />
+    <edge source="Mathematics" target="Social sciences" />
+    <edge source="Mathematics" target="Mathematical structure" />
+    <edge source="Mathematics" target="Kepler conjecture" />
+    <edge source="Mathematics" target="Division (mathematics)" />
+    <edge source="Mathematics" target="Discrete geometry" />
+    <edge source="Mathematics" target="Quaternion" />
+    <edge source="Mathematics" target="Simplicity" />
+    <edge source="Mathematics" target="Information theory" />
+    <edge source="Mathematics" target="Musical notation" />
+    <edge source="Mathematics" target="Dynamical systems theory" />
+    <edge source="Mathematics" target="Symbolic logic" />
+    <edge source="Mathematics" target="Dynamical system" />
+    <edge source="Mathematics" target="Chaos theory" />
+    <edge source="Mathematics" target="Brouwer–Hilbert controversy" />
+    <edge source="Mathematics" target="In Our Time (BBC Radio 4)" />
+    <edge source="Mathematics" target="Axiomatic set theory" />
+    <edge source="Mathematics" target="Mathematics education" />
+    <edge source="Mathematics" target="Herbert Robbins" />
+    <edge source="Mathematics" target="History of Mathematics" />
+    <edge source="Mathematics" target="Middle Kingdom of Egypt" />
+    <edge source="Mathematics" target="Scientific method" />
+    <edge source="Mathematics" target="International Standard Book Number" />
+    <edge source="Mathematics" target="Leonhard Euler" />
+    <edge source="Mathematics" target="Measurement" />
+    <edge source="Mathematics" target="Philip J. Davis" />
+    <edge source="Mathematics" target="Applied mathematics" />
+    <edge source="Mathematics" target="Infinity" />
+    <edge source="Mathematics" target="Integer" />
+    <edge source="Mathematics" target="Abacus" />
+    <edge source="Mathematics" target="Homotopy theory" />
+    <edge source="Mathematics" target="Shape" />
+    <edge source="Mathematics" target="Physics" />
+    <edge source="Mathematics" target="W. W. Norton &amp; Company" />
+    <edge source="Mathematics" target="David Hilbert" />
+    <edge source="Mathematics" target="Mathematical Reviews" />
+    <edge source="Mathematics" target="Ancient Greeks" />
+    <edge source="Mathematics" target="Lynn Steen" />
+    <edge source="Mathematics" target="Writing" />
+    <edge source="Mathematics" target="Representation theory" />
+    <edge source="Mathematics" target="Robert Scott (philologist)" />
+    <edge source="Mathematics" target="Mathematical proof" />
+    <edge source="Mathematics" target="Metaphysics" />
+    <edge source="Mathematics" target="Abstract algebra" />
+    <edge source="Mathematics" target="Numeral system" />
+    <edge source="Mathematics" target="Number theory" />
+    <edge source="Mathematics" target="Euclid's Elements" />
+    <edge source="Mathematics" target="Galois groups" />
+    <edge source="Mathematics" target="Nobel Prize" />
+    <edge source="Mathematics" target="Open set" />
+    <edge source="Mathematics" target="Latin language" />
+    <edge source="Mathematics" target="Proof theory" />
+    <edge source="Mathematics" target="Multilinear algebra" />
+    <edge source="Mathematics" target="Gödel's incompleteness theorems" />
+    <edge source="Mathematics" target="Intuitionist" />
+    <edge source="Mathematics" target="PubMed Identifier" />
+    <edge source="Mathematics" target="Homeomorphism" />
+    <edge source="Mathematics" target="Turing machine" />
+    <edge source="Mathematics" target="Counting" />
+    <edge source="Mathematics" target="Fundamental interaction" />
+    <edge source="Mathematics" target="University of Cambridge" />
+    <edge source="Mathematics" target="Barry A. Cipra" />
+    <edge source="Mathematics" target="Real number" />
+    <edge source="Mathematics" target="Keith Devlin" />
+    <edge source="Mathematics" target="Biology" />
+    <edge source="Mathematics" target="Pure mathematics" />
+    <edge source="Mathematics" target="Astronomy" />
+    <edge source="Mathematics" target="Relation (mathematics)" />
+    <edge source="Mathematics" target="J.M. Ziman" />
+    <edge source="Mathematics" target="Set-theoretic topology" />
+    <edge source="Mathematics" target="Convex optimization" />
+    <edge source="Mathematics" target="Commerce" />
+    <edge source="Mathematics" target="Albert Einstein" />
+    <edge source="Mathematics" target="Abel Prize" />
+    <edge source="Mathematics" target="Weaving" />
+    <edge source="Mathematics" target="Sharaf al-Dīn al-Ṭūsī" />
+    <edge source="Mathematics" target="Falsificationism" />
+    <edge source="Mathematics" target="Cost" />
+    <edge source="Mathematics" target="Engineering" />
+    <edge source="Mathematics" target="Graph theory" />
+    <edge source="Mathematics" target="Architecture" />
+    <edge source="Mathematics" target="Calipers" />
+    <edge source="Mathematics" target="The Unreasonable Effectiveness of Mathematics in the Natural Sciences" />
+    <edge source="Mathematics" target="Probability theory" />
+    <edge source="Mathematics" target="Aleph number" />
+    <edge source="Mathematics" target="Cardinal number" />
+    <edge source="Mathematics" target="Space" />
+    <edge source="Mathematics" target="Pythagoras" />
+    <edge source="Mathematics" target="Aesthetics" />
+    <edge source="Mathematics" target="Haskell Curry" />
+    <edge source="Mathematics" target="Relationship between mathematics and physics" />
+    <edge source="Mathematics" target="Definitions of mathematics" />
+    <edge source="Mathematics" target="Liberal arts" />
+    <edge source="Mathematics" target="Proof (mathematics)" />
+  </graph>
+</graphml>
